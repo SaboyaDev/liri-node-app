@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/joseluissaboya/liri-node-app#readme",
   "dependencies": {
+    "alphavantage": "^1.2.0",
     "axios": "^0.18.0",
     "dotenv": "^6.2.0",
     "moment": "^2.24.0",
