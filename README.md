@@ -13,4 +13,4 @@
   - do-what-it-says
 
 
-![](./GIFS/check-themarket.gif)
+![github](https://github.com/joseluissaboya/liri-node-app/GIFs/check-the-market.gif)
