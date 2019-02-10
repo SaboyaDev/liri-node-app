@@ -1,4 +1,4 @@
-# liri-node-app
+# Liri Node App:
 
 * LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, 
 
@@ -28,8 +28,7 @@
     * Node-Spotify-API - Allows to get access to the Spotify Database with Authentication
 
   ```
-## Intructions
-
+  
 ## What Each Command Does:
 
 ### 1. spotify_this_song:
