@@ -28,7 +28,7 @@
     * Node-Spotify-API - Allows to get access to the Spotify Database with Authentication
 
   ```
-  
+
 ## What Each Command Does:
 
 ### 1. spotify_this_song:
@@ -98,6 +98,8 @@
 
 * `node liri.js do_what_it_says`
 
-  *
+  * * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+
+     * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 
   ![github](https://github.com/joseluissaboya/liri-node-app/blob/master/GIFs/read-file-do-task.gif)
