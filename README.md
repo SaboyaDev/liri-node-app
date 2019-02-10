@@ -46,7 +46,7 @@
 
 ### check_the_market
   * `node liri.js check_the_market '<stock symbol>'`
-    *This will connect with the Alpha Vantage API which will provide us with the daily performance of any stock and display the following results:
+    * This will connect with the Alpha Vantage API which will provide us with the daily performance of any stock and display the following results:
 
        ```
         * Time Zone
