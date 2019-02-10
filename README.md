@@ -13,4 +13,4 @@
   - do-what-it-says
 
 
-![github](https://github.com/joseluissaboya/liri-node-app/GIFs/check-the-market.gif)
+![github](https://github.com/joseluissaboya/liri-node-app/blob/master/GIFs/check-the-market.gif)
