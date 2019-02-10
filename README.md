@@ -50,7 +50,7 @@
   ![github](https://github.com/joseluissaboya/liri-node-app/blob/master/GIFs/spotify-this-song-default-val.gif)
 
   ![github](https://github.com/joseluissaboya/liri-node-app/blob/master/GIFs/spotify-this-song-any-song.gif)
-
+- - -
 ### 2. movie_this: 
 
 * `node liri.js movie_this '<movie title here>'`
@@ -74,7 +74,7 @@
 ![github](https://github.com/joseluissaboya/liri-node-app/blob/master/GIFs/movie-this-default-value.gif)
 
 ![github](https://github.com/joseluissaboya/liri-node-app/blob/master/GIFs/movie-this-any-movie.gif)
-
+- - -
 ### 3. check_the_market:
 
 * `node liri.js check_the_market '<stock symbol>'`
@@ -93,7 +93,7 @@
     ```
 
   ![github](https://github.com/joseluissaboya/liri-node-app/blob/master/GIFs/check-the-market.gif)
-
+- - -
 ### 4. do_what_it_says:
 
 * `node liri.js do_what_it_says`
@@ -103,3 +103,4 @@
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 
   ![github](https://github.com/joseluissaboya/liri-node-app/blob/master/GIFs/read-file-do-task.gif)
+  - - -
