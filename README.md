@@ -1,4 +1,4 @@
-# Liri Node App:
+# Terminal Liri Node App:
 
 * LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, 
 
